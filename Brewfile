@@ -95,6 +95,7 @@ brew 'xsv'
 brew 'yq'
 brew 'zsh'
 cask "microsoft-office"
+cask 'apache-directory-studio'
 cask 'authy'
 cask 'blender'
 cask 'docker'
